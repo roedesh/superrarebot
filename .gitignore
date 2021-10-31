@@ -1,0 +1,15 @@
+# Cache
+__pycache__
+
+# Environment
+.env
+
+# IDE
+.vscode
+
+# Logs
+geckodriver.log
+superrarebot.log
+
+# Temporary files
+db.json
